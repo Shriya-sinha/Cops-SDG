@@ -1,1 +1,18 @@
+body{
+    background-image:url(./Anime.jpg);
+    background-size: cover;
+}
 
+.col-md-4{
+    font-family:'Montserrat', sans-serif ;
+    display:flex;
+    flex-direction: row;
+    margin-top: 20px;
+    padding-left: 50px;
+
+}
+
+.navbar-nav{
+    position: fixed;
+    background-color: white;
+}
